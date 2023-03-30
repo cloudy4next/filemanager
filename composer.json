@@ -15,8 +15,8 @@
     "FileManager"
   ],
   "require": {
-    "barryvdh/laravel-elfinder": "*",
-    "cloudy4next/crud": "^2.0.0"
+    "cloudy4next/crud": "^2.0.0",
+    "barryvdh/laravel-elfinder": "^0.4.5"
   },
   "repositories": [
     {
